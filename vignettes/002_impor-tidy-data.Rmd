@@ -3,7 +3,7 @@ title: "Impor Data dan Konsep Tidy Data"
 author: "Muhammad Aswan Syahputra"
 date: "4/9/2019"
 output:
-  html_document
+  github_document
 editor_options: 
   chunk_output_type: inline
 ---
