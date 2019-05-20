@@ -3,7 +3,7 @@ title: "Pendahuluan"
 author: "Muhammad Aswan Syahputra"
 date: "4/9/2019"
 output:
-  github_document: 
+  github_document
 editor_options: 
   chunk_output_type: inline
 ---
